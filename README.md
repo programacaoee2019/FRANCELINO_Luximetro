@@ -19,5 +19,6 @@ Utilizando o LabView conseguimos desenvolver uma interface bem mais rápida, ami
 
 # Código:
 
+![codigo_luximetro](https://user-images.githubusercontent.com/48970460/60477984-6b6e7680-9c57-11e9-8c26-167b01e344b0.jpg)
 
 
