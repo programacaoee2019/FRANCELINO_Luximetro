@@ -26,6 +26,16 @@ LuximetroVI
 ![codigo_luximetro_myrio](https://user-images.githubusercontent.com/48970460/60478157-06675080-9c58-11e9-95a5-5f8baa847fbb.jpg)
 
 # Circuito e funcionamento: 
+![Aumentando Incidência da luz no LDR](https://user-images.githubusercontent.com/48970460/60478456-28150780-9c59-11e9-8aa9-9f9187e54dc4.jpeg)
+
+
+Incidência da luz do ambiente no LDR
+
+
+![Diminuindo  Incidência da luz no LDR](https://user-images.githubusercontent.com/48970460/60478474-3400c980-9c59-11e9-8561-5b322ebeec90.jpeg)
+
+
+Diminuindo a incidência da luz do ambiente no LDR
 
 
 
