@@ -38,5 +38,17 @@ Incidência da luz do ambiente no LDR
 
 Diminuindo a incidência da luz do ambiente no LDR
 
+# Itens utilizados no circuito: 
+1) Um protoboard
+2) Um LDR 10 mm 
+3) Uma resistência de 3,3 kOhm
+4) MyRio
+
+# Calibração do equipamento:
+
+De acordo com o Datasheet do LDR usado a calibragem foi feita para os seguintes parâmetros:
+Mín 20 kOhm e Máx 100 kOhm - 10 lux
+5kOhm - 100 lux
+
 
 
