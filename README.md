@@ -13,5 +13,9 @@ Utilizando o LabView conseguimos desenvolver uma interface bem mais rápida, ami
 
 ![interface_01](https://user-images.githubusercontent.com/48970460/59734096-83d99c80-9226-11e9-9c7b-c603c60735fe.jpg)
 
+# Fluxograma:
+
+# Código:
+
 
 
