@@ -21,7 +21,11 @@ Utilizando o LabView conseguimos desenvolver uma interface bem mais rápida, ami
 
 ![codigo_luximetro](https://user-images.githubusercontent.com/48970460/60477984-6b6e7680-9c57-11e9-8c26-167b01e344b0.jpg)
 
+LuximetroVI
+
 ![codigo_luximetro_myrio](https://user-images.githubusercontent.com/48970460/60478157-06675080-9c58-11e9-95a5-5f8baa847fbb.jpg)
+
+# Circuito e funcionamento: 
 
 
 
