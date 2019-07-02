@@ -15,6 +15,8 @@ Utilizando o LabView conseguimos desenvolver uma interface bem mais rápida, ami
 
 # Fluxograma:
 
+![Fluxograma_LUXIMETRO](https://user-images.githubusercontent.com/48970460/60476767-2e07ea00-9c53-11e9-851c-f4a0a4b80b8c.jpeg)
+
 # Código:
 
 
